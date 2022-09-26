@@ -1,3 +1,6 @@
 Hello World
 Hello, my name is Cody Apolinar
 Hello, my name is Cody Apolinar and I am working on hw1
+
+Hello, our names are “Cody Apolinar” and “Doan Mong” and we are working on 
+hw3 together
